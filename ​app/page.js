@@ -1,5 +1,3 @@
-Javascript 
-
 export default function Home() {
   return (
     <main style={{ padding: '20px', textAlign: 'center', fontFamily: 'sans-serif' }}>
