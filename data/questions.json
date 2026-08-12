@@ -1,0 +1,14 @@
+json
+
+[
+  {
+    "id": 1,
+    "question": "オームの法則の公式は？",
+    "answer": "V=IR"
+  },
+  {
+    "id": 2,
+    "question": "電流の単位は？",
+    "answer": "アンペア"
+  }
+]
