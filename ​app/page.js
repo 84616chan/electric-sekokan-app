@@ -2,9 +2,9 @@ Javascript
 
 export default function Home() {
   return (
-    <main style={{ padding: '20px', fontFamily: 'sans-serif' }}>
-      <h1>電気施工監理検定アプリ</h1>
-      <p>ここから学習アプリがスタートします！</p>
+    <main style={{ padding: '20px', textAlign: 'center', fontFamily: 'sans-serif' }}>
+      <h1>電気施工管理アプリ</h1>
+      <p>アプリが正常に動作しています！</p>
     </main>
   );
 }
